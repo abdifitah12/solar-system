@@ -220,9 +220,7 @@ function PlanetModal({ planet, onClose }) {
                 </div>
               </div>
 
-              <div className="mt-6 text-sm text-white/60">
-                Tip: you can replace the video links with your favorite NASA or YouTube planet videos.
-              </div>
+               
             </div>
           </div>
         </motion.div>

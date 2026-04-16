@@ -10,7 +10,7 @@ const planets = [
     description: "Closest planet to the Sun.",
     details:
       "Mercury is the smallest planet in the solar system and the closest to the Sun. It has a rocky surface filled with craters and experiences extreme temperature changes because it has almost no atmosphere to trap heat.",
-    image: "/planets/mercury.jpg",
+    image: "https://science.nasa.gov/wp-content/uploads/2023/09/spectra-mercury.jpg?w=1024",
     video: "https://www.youtube.com/embed/0KBjnNuhRHs",
   },
   {
@@ -21,7 +21,7 @@ const planets = [
     description: "Hottest planet in the solar system.",
     details:
       "Venus is similar in size to Earth, but its thick carbon dioxide atmosphere creates a strong greenhouse effect. This makes Venus the hottest planet, even hotter than Mercury.",
-    image: "/planets/venus.jpg",
+    image: "https://media.wired.com/photos/5e59ad2b79c7100008eb6ae8/1:1/w_2000,h_2000,c_limit/photo_space_venus_1_S91-50688.jpg",
     video: "https://www.youtube.com/embed/BvXa1n9fjow",
   },
   {
@@ -32,7 +32,7 @@ const planets = [
     description: "The only planet known to support life.",
     details:
       "Earth is the third planet from the Sun and the only known planet with life. It has liquid water, a breathable atmosphere, and a balanced climate that supports many forms of life.",
-    image: "/planets/earth.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/330px-Meteosat-12-fci-march-equinox-2025-noon.jpg",
     video: "https://www.youtube.com/embed/HCDVN7DCzYE",
   },
   {
@@ -43,7 +43,7 @@ const planets = [
     description: "Known as the Red Planet.",
     details:
       "Mars is a cold desert planet with a thin atmosphere. It is called the Red Planet because of iron oxide on its surface. Scientists study Mars to learn whether it once had water and life.",
-    image: "/planets/mars.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqz1hBiGTXYlw3W4YWr2Lu16gkDeP13GH6g&s",
     video: "https://www.youtube.com/embed/D8pnmwOXhoY",
   },
   {
@@ -54,7 +54,7 @@ const planets = [
     description: "Largest planet in our solar system.",
     details:
       "Jupiter is the largest planet in the solar system. It is a gas giant with no solid surface and is famous for the Great Red Spot, a giant storm that has lasted for centuries.",
-    image: "/planets/jupiter.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/1280px-Jupiter_OPAL_2024.png",
     video: "https://www.youtube.com/embed/PtkqwslbLY8",
   },
   {
@@ -65,7 +65,7 @@ const planets = [
     description: "Famous for its rings.",
     details:
       "Saturn is a gas giant best known for its beautiful ring system. The rings are made mostly of ice and rock particles. Saturn is less dense than water.",
-    image: "/planets/saturn.jpg",
+    image: "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/Saturn1.jpeg?size=*:900",
     video: "https://www.youtube.com/embed/epZdZaEQhS0",
   },
   {
@@ -76,7 +76,7 @@ const planets = [
     description: "An ice giant with an extreme tilt.",
     details:
       "Uranus is an ice giant with a blue-green color caused by methane in its atmosphere. It rotates almost on its side, making it one of the most unusual planets.",
-    image: "/planets/uranus.jpg",
+    image: "https://www.myfrontpagestory.com/wp-content/uploads/2025/01/Depositphotos_128553790_S.jpg",
     video: "https://www.youtube.com/embed/m4NXbFOiOGk",
   },
   {
@@ -87,7 +87,7 @@ const planets = [
     description: "Known for very strong winds.",
     details:
       "Neptune is the farthest known planet from the Sun. It is an ice giant with deep blue color and some of the fastest winds in the solar system.",
-    image: "/planets/neptune.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRldAU2bwCSAVteM_kuW9VOQGxzj4mmfyiWA&s",
     video: "https://www.youtube.com/embed/NStn7zZKXfE",
   },
 ];

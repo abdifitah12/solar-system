@@ -1,11 +1,4 @@
-import mercury from "../assets/planets/mercury.jpg";
-import venus from "../assets/planets/venus.jpg";
-import earth from "../assets/planets/earth.jpg";
-import mars from "../assets/planets/mars.jpg";
-import jupiter from "../assets/planets/jupiter.jpg";
-import saturn from "../assets/planets/saturn.jpg";
-import uranus from "../assets/planets/uranus.jpg";
-import neptune from "../assets/planets/neptune.jpg";
+
 
 export const PLANETS = [
   {
@@ -15,7 +8,7 @@ export const PLANETS = [
     atmosphere: "Almost no atmosphere (surface-bound exosphere)",
     temp: "Day ~430°C, Night ~-180°C",
     description: "Closest planet to the Sun with extreme temperature swings.",
-    image: mercury,
+    image:"https://science.nasa.gov/wp-content/uploads/2023/09/spectra-mercury.jpg?w=1024",
   },
   {
     name: "Venus",
@@ -24,7 +17,7 @@ export const PLANETS = [
     atmosphere: "Thick CO₂ + sulfuric acid clouds",
     temp: "~464°C",
     description: "Runaway greenhouse effect makes it hotter than Mercury.",
-    image: venus,
+    image: "https://media.wired.com/photos/5e59ad2b79c7100008eb6ae8/1:1/w_2000,h_2000,c_limit/photo_space_venus_1_S91-50688.jpg",
   },
   {
     name: "Earth",
@@ -33,7 +26,7 @@ export const PLANETS = [
     atmosphere: "Nitrogen–oxygen (about 21% oxygen)",
     temp: "Avg ~15°C",
     description: "Only known world with life and stable liquid water on the surface.",
-    image: earth,
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meteosat-12-fci-march-equinox-2025-noon.jpg/330px-Meteosat-12-fci-march-equinox-2025-noon.jpg",
   },
   {
     name: "Mars",
@@ -42,7 +35,7 @@ export const PLANETS = [
     atmosphere: "Thin, mostly CO₂",
     temp: "Avg ~-65°C",
     description: "Cold, dry desert world about half Earth’s size.",
-    image: mars,
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqz1hBiGTXYlw3W4YWr2Lu16gkDeP13GH6g&s",
   },
   {
     name: "Jupiter",
@@ -51,7 +44,7 @@ export const PLANETS = [
     atmosphere: "Mostly hydrogen and helium",
     temp: "Cloud tops ~-110°C",
     description: "No solid surface; the most massive planet in our solar system.",
-    image: jupiter,
+    image:  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/1280px-Jupiter_OPAL_2024.png",
   },
   {
     name: "Saturn",
@@ -60,7 +53,7 @@ export const PLANETS = [
     atmosphere: "Mostly hydrogen and helium",
     temp: "Around ~-140°C",
     description: "Famous for its spectacular rings and low density.",
-    image: saturn,
+    image: "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/Saturn1.jpeg?size=*:900",
   },
   {
     name: "Uranus",
@@ -69,7 +62,7 @@ export const PLANETS = [
     atmosphere: "Hydrogen/helium with methane",
     temp: "Very cold (about ~-195°C)",
     description: "An ice giant with an extreme axial tilt and faint rings.",
-    image: uranus,
+    image: "https://www.myfrontpagestory.com/wp-content/uploads/2025/01/Depositphotos_128553790_S.jpg",
   },
   {
     name: "Neptune",
@@ -78,7 +71,7 @@ export const PLANETS = [
     atmosphere: "Hydrogen/helium with methane",
     temp: "Very cold (about ~-200°C)",
     description: "An ice giant known for powerful winds and storms.",
-    image: neptune,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRldAU2bwCSAVteM_kuW9VOQGxzj4mmfyiWA&s",
   },
 ];
 
